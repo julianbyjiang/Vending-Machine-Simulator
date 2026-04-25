@@ -1,2 +1,2 @@
-# Vending-Machine-Simulator
-Created with Julia Huynh
+# Vending Machine Simulator
+Created with Julia Huynh for CS106
