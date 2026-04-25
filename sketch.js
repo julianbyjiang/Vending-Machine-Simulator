@@ -2,9 +2,7 @@
 /*
 Vending Machine Simulator
 Julia Huynh
-21211484
 Julian Bi Ying Jiang
-21183831
 
 INSTRUCTIONS
 <explain what your program does and how to use it>
